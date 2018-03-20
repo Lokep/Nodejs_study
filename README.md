@@ -1,7 +1,5 @@
 # Nodejs_study
 
-## today ,李哥flag，每天学习一些NodeJs
-
 ### 今天想先看看FS模块
 
     Fs模块（文件系统）
